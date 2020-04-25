@@ -1,0 +1,2 @@
+# testProjectWithModule
+testModule
